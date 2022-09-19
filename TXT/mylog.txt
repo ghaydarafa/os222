@@ -13,4 +13,4 @@ ZCZC W01 5 L05 Quiz related including studying
 ZCZC W01 340 L09 Assignment Week 1
 ZCZC W02 4 L05 Quiz related
 ZCZC W02 180 L02 ZOOM Meetings related
-ZCZC W02 20 L09 Assignment Week 2
+ZCZC W02 35 L09 Assignment Week 2
