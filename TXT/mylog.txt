@@ -16,4 +16,4 @@ ZCZC W02 180 L02 ZOOM Meetings related
 ZCZC W02 60 L09 Assignment Week 2
 ZCZC W03 3 L05 Quiz related
 ZCZC W03 100 L02 ZOOM Meetings related
-ZCZC W03 84 L09 Assignment Week 3
+ZCZC W03 94 L09 Assignment Week 3
