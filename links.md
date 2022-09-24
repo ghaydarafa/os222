@@ -10,7 +10,7 @@ This is a basic tutorial on how to use Vim. We can use Vim as a simple text edit
 ## Week 02
 * [GPG Cheatsheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)  
 This page has many commands we can use related to GPG.
-## Week 02
+## Week 03
 * [Virtual Storage](https://www.virtualbox.org/manual/ch05.html)  
 This link tells us everything about virtual storage in Oracle VM VirtualBox spesifically.
 * [Exit from Root](https://unix.stackexchange.com/questions/129089/how-to-return-from-root-log-in-to-my-user-log-in)  
