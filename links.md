@@ -22,3 +22,10 @@ This video helped me to archive a directory and its contents into a tar.
 This video tells about a simple Makefile to compile a c file.  
 * [Compile a c program in Linux](https://www.log2base2.com/C/basic/how-to-compile-the-c-program.html)  
 This video gives a simple way to compile c file directly.
+## Week 05  
+* [Cut, copy, and paste in Vim](https://phoenixnap.com/kb/cut-copy-paste-vim)  
+This link gives us many way to do cut, copy, and paste in vim.  
+* [Undo in vim](https://www.cyberciti.biz/faq/vim-undo/)  
+This link help me when i want to undo my changes in vim.
+* [Kernel Panic](https://www.techtarget.com/searchdatacenter/definition/kernel-panic)  
+This link tells us what exactly kernel panic is.
