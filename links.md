@@ -29,5 +29,11 @@ This link gives us many way to do cut, copy, and paste in vim.
 This link help me when i want to undo my changes in vim.
 * [Kernel Panic](https://www.techtarget.com/searchdatacenter/definition/kernel-panic)  
 This link tells us what exactly kernel panic is.
+## Week 06
 * [Fork in C](https://www.geeksforgeeks.org/fork-system-call/)
 This link tells us about dork system call.
+## Week 07
+* [Size of the page table](https://www.javatpoint.com/os-page-table-size)
+This link tells us how to count the size of the page table.
+* [Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+This page tells us about types of process, race condition, critical section, Peterson's solution, and semaphores.
