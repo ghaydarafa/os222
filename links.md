@@ -37,3 +37,6 @@ This link tells us about dork system call.
 This link tells us how to count the size of the page table.
 * [Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
 This page tells us about types of process, race condition, critical section, Peterson's solution, and semaphores.
+## Week 08
+* [Tips and QNA about LFS](https://www.linuxquestions.org/questions/linux-from-scratch-13/tips-on-building-a-successful-lfs-4175477816/)
+Here are some tips on building a LFS.
