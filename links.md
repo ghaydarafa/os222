@@ -40,3 +40,6 @@ This page tells us about types of process, race condition, critical section, Pet
 ## Week 08
 * [Tips and QNA about LFS](https://www.linuxquestions.org/questions/linux-from-scratch-13/tips-on-building-a-successful-lfs-4175477816/)
 Here are some tips on building a LFS.
+## Week 09
+* [chroot command](https://www.geeksforgeeks.org/chroot-command-in-linux-with-examples/)
+This web tells us about the chroot command in Linux/Unix system.
