@@ -43,3 +43,6 @@ Here are some tips on building a LFS.
 ## Week 09
 * [chroot command](https://www.geeksforgeeks.org/chroot-command-in-linux-with-examples/)
 This web tells us about the chroot command in Linux/Unix system.
+## Week 10
+* [glibc](https://sourceware.org/glibc/wiki/HomePage)
+This page tells us about glibc in linux.

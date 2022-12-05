@@ -42,4 +42,5 @@ ZCZC W09 8 L05 Quiz related
 ZCZC W09 255 L09 Assignment Week 9
 ZCZC W09 100 L99 Face-to-face lecture
 ZCZC W10 5 L05 Quiz related
-ZCZC W10 150 L10 Assignment Week 9
+ZCZC W10 55 L02 ZOOM Meetings related
+ZCZC W10 360 L10 Assignment Week 9
